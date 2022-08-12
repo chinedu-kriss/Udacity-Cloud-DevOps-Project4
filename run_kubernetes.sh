@@ -18,4 +18,3 @@ kubectl get pods
 # Step 4:
 # Forward the container port to a host
 kubectl port-forward ml-app 8000:80
-
