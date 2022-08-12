@@ -67,3 +67,4 @@ source .devops/bin/activate
 * `Dockerfile` contains the configuration for the docker container env. setup
 * `Makefile` basically contains the summary instruction on deploying the app 
 * `requirements.txt` contains the dependencies to install
+* 
